@@ -1,0 +1,23 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <!-- Background square with rounded corners -->
+  <rect width="120" height="120" fill="#0052CC" rx="24"/>
+  
+  <!-- Top right arrow (curved upward) -->
+  <path d="M 30 65 Q 38 35 60 30 Q 75 28 82 38" 
+        stroke="white" stroke-width="10" fill="none" 
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow head top right -->
+  <polygon points="90,32 100,52 80,45" fill="white"/>
+  
+  <!-- Bottom left arrow (curved downward) -->
+  <path d="M 82 82 Q 75 92 60 90 Q 38 85 30 65" 
+        stroke="white" stroke-width="10" fill="none" 
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow head bottom left -->
+  <polygon points="20,85 15,65 35,70" fill="white"/>
+  
+  <!-- Center smile curve (minimalista) -->
+  <path d="M 42 68 Q 60 80 78 68" 
+        stroke="white" stroke-width="8" fill="none" 
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

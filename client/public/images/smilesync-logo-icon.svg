@@ -1,0 +1,11 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <!-- Outer sync arrows -->
+  <path d="M 30 60 Q 30 35 50 35 Q 65 35 70 45" stroke="#0052CC" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="75,40 80,55 65,50" fill="#0052CC"/>
+  
+  <path d="M 70 75 Q 65 85 50 85 Q 30 85 30 60" stroke="#0052CC" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="25,80 20,65 35,70" fill="#0052CC"/>
+  
+  <!-- Smile curve in center -->
+  <path d="M 40 55 Q 50 65 60 55" stroke="#0052CC" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>
